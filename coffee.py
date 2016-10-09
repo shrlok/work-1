@@ -23,3 +23,4 @@ elif b == 2:
     print("Withaut sugar")
 else:
     print("You enter not right nomber!")
+print('Hello')
